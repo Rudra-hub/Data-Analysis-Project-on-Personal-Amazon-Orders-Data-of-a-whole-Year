@@ -1,0 +1,6 @@
+AIM of the Project:
+1.How much I spent on Amazon during this period.
+2.What my highest, lowest, and average order totals were.
+3.How much tax I paid, and the effective sales tax rate I paid.
+4.How my spending fluctuated over time.
+5.On which days I spent the most money.
